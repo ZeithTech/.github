@@ -21,7 +21,7 @@ Online satış yapmak isteyen işletmeler için özel olarak tasarlanmış e-tic
 Daha fazla bilgi almak, işbirliği yapmak veya hizmetlerimizle ilgili sorularınızı sormak için aşağıdaki iletişim kanallarını kullanabilirsiniz:
 
 - Web sitesi: [www.zeith.tech](https://zeith.tech)
-- E-posta: suppport@zeith.tech
+- E-posta: support@zeith.tech
 
 Ekip olarak, işletmenizin dijital varlığını güçlendirmek için elimizden gelenin en iyisini yapmaktan mutluluk duyarız. Sizi Zeith Technology ailesine katılmaya davet ediyoruz!
 
